@@ -1,8 +1,6 @@
 Olá! Sou Erick Almeida. ✌️
 
-- 💻 Hoje sou Front-end
- 
-- 📌  Developer Júnior
+- 💻 Front-End Developer
  
 - 💡 Não é a linguagem de programação que define o programador, mas sim sua lógica.
 
